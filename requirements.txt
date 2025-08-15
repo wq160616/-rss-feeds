@@ -1,0 +1,4 @@
+# requirements.txt 内容
+requests
+beautifulsoup4
+lxml  # 注意：你的脚本用了 "lxml" 解析器，必须添加
