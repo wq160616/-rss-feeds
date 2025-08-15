@@ -1,0 +1,583 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>EET-China 推荐内容</title>
+    <link>https://www.eet-china.com/mp/recommended</link>
+    <description>EET-China 推荐页面的自定义 RSS 订阅源</description>
+    <lastBuildDate>Fri, 15 Aug 2025 00:32:51 GMT</lastBuildDate>
+    <item>
+      <title>登录｜注册</title>
+      <link>https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</guid>
+    </item>
+    <item>
+      <title>热门</title>
+      <link>https://www.eet-china.com/mp/recommended</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/recommended</guid>
+    </item>
+    <item>
+      <title>专栏作家</title>
+      <link>https://www.eet-china.com/mp/writers</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/writers</guid>
+    </item>
+    <item>
+      <title>电子产业热词</title>
+      <link>https://www.eet-china.com/mp/tags</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/tags</guid>
+    </item>
+    <item>
+      <title>登录</title>
+      <link>https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</guid>
+    </item>
+    <item>
+      <title>专栏作家</title>
+      <link>https://www.eet-china.com/mp/writers</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/writers</guid>
+    </item>
+    <item>
+      <title>精选推荐</title>
+      <link>https://www.eet-china.com/mp/recommended</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/recommended</guid>
+    </item>
+    <item>
+      <title>一周热点</title>
+      <link>https://www.eet-china.com/mp/hotweekly</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/hotweekly</guid>
+    </item>
+    <item>
+      <title>月度热点</title>
+      <link>https://www.eet-china.com/mp/hotmonthly</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/hotmonthly</guid>
+    </item>
+    <item>
+      <title>年度热点</title>
+      <link>https://www.eet-china.com/mp/hotyearly</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/hotyearly</guid>
+    </item>
+    <item>
+      <title>现代工科职业对女性不友好吗？女生适不适合做硬件呢？</title>
+      <link>https://www.eet-china.com/mp/a429190.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429190.html</guid>
+    </item>
+    <item>
+      <title>ADC选型避坑指南：教科书里找不到的干货</title>
+      <link>https://www.eet-china.com/mp/a429197.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429197.html</guid>
+    </item>
+    <item>
+      <title>传 LG 正在开发 130 吋 Micro LED 广告广告牌！ 采用LTPS TFT技术</title>
+      <link>https://www.eet-china.com/mp/a429183.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429183.html</guid>
+    </item>
+    <item>
+      <title>创业往事：批量出货后发现软件bug，硬件紧急救火</title>
+      <link>https://www.eet-china.com/mp/a429176.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429176.html</guid>
+    </item>
+    <item>
+      <title>苹果芯片计划遭泄露！</title>
+      <link>https://www.eet-china.com/mp/a429168.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429168.html</guid>
+    </item>
+    <item>
+      <title>航天环宇，营收净利双增</title>
+      <link>https://www.eet-china.com/mp/a429174.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429174.html</guid>
+    </item>
+    <item>
+      <title>礼来回应特朗普：涨价170%</title>
+      <link>https://www.eet-china.com/mp/a429171.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429171.html</guid>
+    </item>
+    <item>
+      <title>华锐精密，布局机器人</title>
+      <link>https://www.eet-china.com/mp/a429173.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429173.html</guid>
+    </item>
+    <item>
+      <title>“游戏王”网易，日赚1个多亿</title>
+      <link>https://www.eet-china.com/mp/a429170.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429170.html</guid>
+    </item>
+    <item>
+      <title>Apple Watch获准恢复血氧功能</title>
+      <link>https://www.eet-china.com/mp/a429172.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429172.html</guid>
+    </item>
+    <item>
+      <title>通用汽车筹划重启Cruise，L4自动驾驶要快进落地？</title>
+      <link>https://www.eet-china.com/mp/a429167.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429167.html</guid>
+    </item>
+    <item>
+      <title>芝能科技出品在暂停自动驾驶业务一段时间以后，通用汽车选择重返赛道，过去GM寄望于旗下Cruise一跃进入L4级自动驾驶——不需要方向盘、不需要驾驶员，在城市中运营自有车队。高投入、高风险、监管高压，最终在一起旧金山事故后戛然而止。那场事件不仅让Cruise失去运营牌照，也让公众对GM自动驾驶的信任急速下滑。这一次，GM的重启显得克制。新团队由特斯拉Autopilot前负责人斯特林·安德森领衔，方向</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>汽车出口淡季不淡：7月57.5万，燃油车减速，插混狂飙</title>
+      <link>https://www.eet-china.com/mp/a429163.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429163.html</guid>
+    </item>
+    <item>
+      <title>芝能汽车出品2025年的中国汽车出口市场，走得比任何人预想的都要稳。1-7月累计出口368万辆，同比增长12.8%，即便在7月这个传统淡季，依旧交出57.5万辆、同比增长22.6%的成绩单。与过去靠燃油车撑场面的出口结构不同，今年的增长核心来自新能源汽车，尤其是插电混动和新能源商用车的双线爆发，让“出海”故事有了全新的叙事重心。数据背后，是全球汽车市场的结构性变化。欧洲和东南亚的新能源需求不断释放</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>南美车市 | 乌拉圭2025年7月，比亚迪夺冠</title>
+      <link>https://www.eet-china.com/mp/a429166.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429166.html</guid>
+    </item>
+    <item>
+      <title>2025年7月，乌拉圭汽车市场出现了一个足以载入行业史册的瞬间——比亚迪以743辆的月销量，12.6%的市场份额，首次登顶全国销量冠军，这是比亚迪在南美的首次夺冠，中国汽车在乌拉圭整体份额首次突破三成，同比翻倍增长，改写了由菲亚特、雪佛兰等老牌势力长期把持的格局。今年前七个月，乌拉圭新轻型车累计销量同比增长9.8%，新能源车型渗透率悄然攀升，中国品牌的全线崛起成为最大亮点。比亚迪的海豚、宋PLUS</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>RISC-V 定制化：从大厂试验田到全行业可复制</title>
+      <link>https://www.eet-china.com/mp/a429165.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429165.html</guid>
+    </item>
+    <item>
+      <title>芝能智芯出品2025 年，处理器设计正悄然换挡。过去三十年，x86 与 Arm 占据了全球大部分算力的底层架构，通用性和成熟生态是它们的护城河。但 AI 推理、车载计算、边缘设备与工业控制等新场景正在快速逼近通用架构的性能与能效极限——问题不在于算力不够，而在于算力浪费太多。RISC-V 的开放指令集架构显得格外契合产业情绪。免版税、可定制，让芯片设计公司可以针对特定工作负载添加专用指令、重构内存</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>Momenta自研芯片落地测试，软硬一体、殊途同归</title>
+      <link>https://www.eet-china.com/mp/a429164.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429164.html</guid>
+    </item>
+    <item>
+      <title>芝能智芯出品Momenta自研辅助驾驶芯片成功点亮并进入实车测试阶段，这是Momenta第一次把自己的算法“安家”在自主设计的芯片平台上——这家以辅助驾驶算法起家的公司，正式迈入“算法+芯片”垂直整合的赛道。这条路并不容易。几年前，Momenta城市NOA软件搭配英伟达芯片，想要实现软件层面的收费并不容易。2021年Momenta启动的“自研芯片计划”有了明确方向——在更低的成本预算内，把足够的算</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>SiC+Si混碳融合逆变器 · 从概念到系统方案落地的全景解析</title>
+      <link>https://www.eet-china.com/mp/a429155.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429155.html</guid>
+    </item>
+    <item>
+      <title>以下内容发表在「SysPro电力电子技术」知识星球- 关于SiC+Si多变量融合逆变器 · 从概念到系统方案落地的全景解析- 原创文章，仅用于SysPro内部使用，非授权不得转载- 本篇节选，完整内容在知识星球发布，欢迎学习、交流导语：在电动汽车技术飞速发展的当下，功率器件的创新与优化成为了推动行业进步的关键因素。SiC（碳化硅）与Si（硅）多变量融合逆变器</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>先进封装厂商盘点(二)：中国大陆头部封测厂商先进封装技术解析</title>
+      <link>https://www.eet-china.com/mp/a429154.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429154.html</guid>
+    </item>
+    <item>
+      <title>中国大陆半导体封测产业已形成清晰的梯队格局1、头部三强（长电科技、通富微电、华天科技）通过&quot;自主研发+并购整合&quot;双轮驱动，已构建起完整的先进封装技术矩阵。这些行业龙头采用平台化发展战略，其封装解决方案可适配从智能手机到AI加速器的全场景需求，实现了从消费电子到高性能计算的&quot;一站式&quot;服务能力。2、腰部企业则聚焦于成熟封装技术领域，主要提供：• 基础版晶圆级封装（WLP）和凸块（Bumping）技术•</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>每年出口增长100万辆！凭啥被欧美围追堵截？该如何破局？</title>
+      <link>https://www.eet-china.com/mp/a429150.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429150.html</guid>
+    </item>
+    <item>
+      <title>关注「电动车公社」和我们一起重新思考汽车大家好，我是社长。「电动车公社」之前有过一些真实车主内容，没看过的同学可以戳链接：《我买了辆比亚迪，王传福亲自来4S店交车！》《1公里7分钱，油都快放过期了！零跑全新C11车主真实采访！》《开了1个月蔚来ES6，我准备卖掉家里2台油车！》《为什么都在喷增程，又都在买增程？》这些内容一经推出，在公众号及各大平台都受到好评，很多网友私信我说，在这样一个到处都是水</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>人形机器人赛道硝烟四起？杭州“六小龙”后，深圳 “十三太保” 强势登场</title>
+      <link>https://www.eet-china.com/mp/a429148.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429148.html</guid>
+    </item>
+    <item>
+      <title>全球科技的浪潮中，在马斯克旗下特斯拉开发的擎天柱人形机器人带领下，人形机器人领域正成为全球瞩目的焦点。当大家还在热议杭州以宇树科技为代表的 “六小龙” 时，深圳已然悄然崛起了 “十三太保”。这十三家极具代表性的机器人科创企业，在各自的细分领域发光发热，让深圳在人形机器人赛道上独居优势。今天，就带大家深入了解一下深圳的这十三位 “科技先锋”。国纳科技匠上海压铸展与宇树人形机器人合影一、通用型人形机器</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>iphone 16e 射频电路板</title>
+      <link>https://www.eet-china.com/mp/a429145.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429145.html</guid>
+    </item>
+    <item>
+      <title>关注▲射频美学▲ ，一起学习成长这是射频美学的第 1955 期分享。来源 | 原创；微圈 | 进微信群,加微信: RFtogether521 ；备注|昵称+地域+产品及岗位方向 （如大魔王+上海+芯片射频工程师）；宗旨 | 看到的未必是你的，掌握底层逻辑才是。iphone 16e 到底和iphone 16系列有啥区别呢？大家可</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>首次曝光！美国在AI芯片出货时偷装追踪器：英伟达、超威等卷入</title>
+      <link>https://www.eet-china.com/mp/a429139.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429139.html</guid>
+    </item>
+    <item>
+      <title>据媒体报道，日前，有知情人士披露，美国已在出口的AI芯片等货物中秘密安装追踪器，以检测这些货物是否被运送到受美国出口限制的目的地。报道援引相关人士说法称，他们知道戴尔和超微 (Super Micro）的服务器货物中使用了这些追踪器，这些服务器中包含英伟达和AMD公司的芯片。这些消息人士还描述，上述行为在2024年就开始了，当年在一批搭载英伟达芯片的戴尔服务器中，不仅运输箱上装有大型追踪器，还在包装</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>顶级旗舰卡皇！华硕预热新款ROG RTX 5090 Matrix骇客显卡</title>
+      <link>https://www.eet-china.com/mp/a429142.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429142.html</guid>
+    </item>
+    <item>
+      <title>华硕正在准备一款全新的ROG RTX 5090Matrix骇客显卡，并通过一段预告视频展示了其独特的外观，最大的亮点在于独特的散热外壳和RGB灯效设计。华硕的ROG Matrix系列一直是高端显卡的代表，而此次推出的RTX 5090 Matrix也不例外，根据预告视频，这款显卡采用了三风扇设计。外壳末端采用了独特的圆形设计，并融入了ROG品牌的无限镜Infinity Mirror效果，这一设计不仅</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>索赔9999万元！国内半导体设备龙头屹唐股份起诉美国公司：窃取机密</title>
+      <link>https://www.eet-china.com/mp/a429140.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429140.html</guid>
+    </item>
+    <item>
+      <title>据国内媒体报道称，国内半导体设备龙头屹唐股份发布公告称，将起诉美国公司，因后者窃取公司机密。屹唐股份公告称，公司因认为应用材料公司非法获取并使用了公司的等离子体源及晶圆表面处理相关的核心技术秘密，还在中国境内以申请专利的方式披露了该技术秘密，且将该专利申请权据为己有，因此向北京知识产权法院提起诉讼，诉讼金额为人民币9999万元。被告应用材料公司招聘了曾在原告全资子公司Mattson Technol</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>Intel上线“USAI”专题大秀爱国使命：我们是50多年来唯一一家</title>
+      <link>https://www.eet-china.com/mp/a429141.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429141.html</guid>
+    </item>
+    <item>
+      <title>近日，Intel上线“USAI”专题大秀爱国使命，称Intel是50多年来唯一一家坚守在美国本土制造世界上最尖端芯片的美国公司。据悉，Intel CEO陈立武上周与美国总统特朗普会面，部分消除外界疑虑，但Intel如今必须做更多事情来展现对美国的承诺。对此，该公司在Intel官网上线“USAI”专题页面，并提到：我们深知，未来属于那些正确打造它的人。 这一切从我们的家园——美国开始。 这五十多年来</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>AMD苏姿丰自曝：最烦被问与黄仁勋的关系！</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>近日AMD CEO苏姿丰接受了媒体专访，在其中谈到了出口管制、与英伟达竞争、AI技术潜力、硅谷人才争夺战等，当然还有一些有意思的话题。当被问及“最让你烦的事情时”，苏姿丰表示：嗯……我不能说是被问黄仁勋和你的关系。她接着补充道，其实这不算真的烦，更像是——“真的吗？这真的是我们能谈的最重要的话题吗？”不过黄仁勋和苏姿丰还真的是亲戚，根据资深财经媒体人、家族传承研究者吴佳晋的研究，黄仁勋的母亲罗采秀</title>
+      <link>https://www.eet-china.com/mp/a429143.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a429143.html</guid>
+    </item>
+    <item>
+      <title>上海微电子背后的真主是谁？</title>
+      <link>https://www.eet-china.com/mp/a427988.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427988.html</guid>
+    </item>
+    <item>
+      <title>Flipper Zero暗网固件可破解主流汽车品牌滚动码安全系统</title>
+      <link>https://www.eet-china.com/mp/a428156.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428156.html</guid>
+    </item>
+    <item>
+      <title>ASMPT深圳关厂波及950人，3.6亿重组费换供应链新生？</title>
+      <link>https://www.eet-china.com/mp/a428314.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428314.html</guid>
+    </item>
+    <item>
+      <title>国际首次突破！深圳平湖实验室攻克GaN/SiC单片集成技术瓶颈</title>
+      <link>https://www.eet-china.com/mp/a427543.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427543.html</guid>
+    </item>
+    <item>
+      <title>16499元起价格不变！NVIDIA中国特供RTX 5090 D v2正式发布：显存砍了一大刀</title>
+      <link>https://www.eet-china.com/mp/a428542.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428542.html</guid>
+    </item>
+    <item>
+      <title>独家 | “凯哥”事件后，内部员工再曝奇瑞加班双面：IPO倒计时下工时排名照旧</title>
+      <link>https://www.eet-china.com/mp/a427706.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427706.html</guid>
+    </item>
+    <item>
+      <title>史上变化最大的苹果手机！iPhone 17长得像充电宝引热议，涨价350元你买吗</title>
+      <link>https://www.eet-china.com/mp/a428484.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428484.html</guid>
+    </item>
+    <item>
+      <title>传荣耀前CEO赵明低调加盟智界！</title>
+      <link>https://www.eet-china.com/mp/a428087.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428087.html</guid>
+    </item>
+    <item>
+      <title>美光中国区裁员！</title>
+      <link>https://www.eet-china.com/mp/a428377.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428377.html</guid>
+    </item>
+    <item>
+      <title>Altium Designer画PCB详细教程</title>
+      <link>https://www.eet-china.com/mp/a427686.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427686.html</guid>
+    </item>
+    <item>
+      <title>美商务部BIS发放许可证！批准英伟达向中国出口H20 AI芯片！</title>
+      <link>https://www.eet-china.com/mp/a427774.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427774.html</guid>
+    </item>
+    <item>
+      <title>东莞五株启动预重整，债权人需于9月15日前申报债权</title>
+      <link>https://www.eet-china.com/mp/a427585.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427585.html</guid>
+    </item>
+    <item>
+      <title>海康威视兑现了自己的承诺</title>
+      <link>https://www.eet-china.com/mp/a427942.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427942.html</guid>
+    </item>
+    <item>
+      <title>半导体大厂关闭深圳厂房！约950名员工失业</title>
+      <link>https://www.eet-china.com/mp/a428049.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428049.html</guid>
+    </item>
+    <item>
+      <title>新能源汽车三大充电模式：慢充、快充、超充</title>
+      <link>https://www.eet-china.com/mp/a428291.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428291.html</guid>
+    </item>
+    <item>
+      <title>突破封锁！华为新技术绕开HBM，终结HBM暴利时代？</title>
+      <link>https://www.eet-china.com/mp/a428476.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428476.html</guid>
+    </item>
+    <item>
+      <title>2025 AI眼镜市场爆发：HTC、Meta领衔，MicroLED与具身智能成焦点</title>
+      <link>https://www.eet-china.com/mp/a428315.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428315.html</guid>
+    </item>
+    <item>
+      <title>方正科技泰国工厂正式开业，全球化战略迈出重要一步</title>
+      <link>https://www.eet-china.com/mp/a428096.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428096.html</guid>
+    </item>
+    <item>
+      <title>英诺赛科成英伟达中国唯一供应商！</title>
+      <link>https://www.eet-china.com/mp/a427570.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427570.html</guid>
+    </item>
+    <item>
+      <title>华为AI突破性成果即将发布！</title>
+      <link>https://www.eet-china.com/mp/a428090.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428090.html</guid>
+    </item>
+    <item>
+      <title>非法套取上亿元 ！DeepSeek母公司总监被查</title>
+      <link>https://www.eet-china.com/mp/a427885.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427885.html</guid>
+    </item>
+    <item>
+      <title>雷军向海外转出50亿美金？官方辟谣！</title>
+      <link>https://www.eet-china.com/mp/a427799.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427799.html</guid>
+    </item>
+    <item>
+      <title>突发！京东方败诉，15年禁入美国！</title>
+      <link>https://www.eet-china.com/mp/a428967.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428967.html</guid>
+    </item>
+    <item>
+      <title>“雷军向海外转50亿美金”？小米集团王化辟谣</title>
+      <link>https://www.eet-china.com/mp/a427719.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427719.html</guid>
+    </item>
+    <item>
+      <title>GPT-5发布24小时即被越狱：AI安全防线再遭质疑</title>
+      <link>https://www.eet-china.com/mp/a428157.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428157.html</guid>
+    </item>
+    <item>
+      <title>ti史诗级涨价，关特朗普什么事？</title>
+      <link>https://www.eet-china.com/mp/a427503.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427503.html</guid>
+    </item>
+    <item>
+      <title>英伟达、AMD 同意上缴15%中国芯片收入！换取出口许可</title>
+      <link>https://www.eet-china.com/mp/a428061.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428061.html</guid>
+    </item>
+    <item>
+      <title>面板巨头TCL华星入局，COB显示技术迎来分水岭时刻</title>
+      <link>https://www.eet-china.com/mp/a427493.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427493.html</guid>
+    </item>
+    <item>
+      <title>英伟达正式获得H20对华出口许可！</title>
+      <link>https://www.eet-china.com/mp/a427855.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a427855.html</guid>
+    </item>
+    <item>
+      <title>玉渊潭天起底英伟达H20芯片后门风险</title>
+      <link>https://www.eet-china.com/mp/a428734.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a428734.html</guid>
+    </item>
+    <item>
+      <title>《2024智能网联汽车网络安全报告》（附下载）</title>
+      <link>https://www.eet-china.com/mp/a376095.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a376095.html</guid>
+    </item>
+    <item>
+      <title>干货｜气体打火机中的压电陶瓷你真的了解吗？</title>
+      <link>https://www.eet-china.com/mp/a177755.html</link>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 00:32:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a177755.html</guid>
+    </item>
+  </channel>
+</rss>
