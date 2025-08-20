@@ -51,13 +51,13 @@ jobs:
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
-          # 强制添加，避免被 .gitignore 屏蔽或未被跟踪
-          git add -f eet_china_rss.xml
-          # 只有在有实际改动时才提交
-          if git diff --cached --quiet; then
-            echo "RSS 内容无更新，无需提交"
-          else
-            git commit -m "自动更新 RSS（$(date -u +'%Y-%m-%dT%H:%M:%SZ')）"
-            git push
-          fi
+    
+       # 检查文件是否有实际变化
+       if git diff --quiet eet_china_rss.xml; then
+           echo "RSS 内容无更新，无需提交"
+       else
+         # 有变化才提交
+         git add eet_china_rss.xml
+         git commit -m "自动更新 RSS（$(date -u +'%Y-%m-%dT%H:%M:%SZ')）"
+         git push
+      fi
