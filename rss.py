@@ -29,16 +29,47 @@ def fetch_html_with_mirror(url: str):
     session.mount("http://", HTTPAdapter(max_retries=retries))
 
     print(f"[1/4] 开始请求页面：{url}")
-    # 替换镜像服务
-    mirror = "https://api.allorigins.win/raw?url=" + url
-    print(f"使用镜像抓取：{mirror}")
     
+    # 先尝试直接访问
     try:
-        resp = session.get(mirror, headers=headers, timeout=(6, 30))
+        print("尝试直接访问...")
+        resp = session.get(url, headers=headers, timeout=(10, 30))
         resp.raise_for_status()
-        return resp.text, None
+        if len(resp.text) > 1000:  # 确保返回了有效内容
+            print("直接访问成功")
+            return resp.text, None
     except requests.RequestException as e:
-        return None, f"镜像抓取失败：{e}"
+        print(f"直接访问失败：{e}")
+    
+    # 直接访问失败，尝试镜像服务
+    mirrors = [
+        "https://r.jina.ai/http://",
+        "https://api.allorigins.win/raw?url=",
+        "https://cors-anywhere.herokuapp.com/",
+    ]
+    
+    for i, mirror_base in enumerate(mirrors):
+        try:
+            if mirror_base == "https://api.allorigins.win/raw?url=":
+                mirror_url = mirror_base + url
+            else:
+                mirror_url = mirror_base + url.replace("https://", "").replace("http://", "")
+            
+            print(f"尝试镜像 {i+1}/{len(mirrors)}: {mirror_url}")
+            resp = session.get(mirror_url, headers=headers, timeout=(10, 30))
+            resp.raise_for_status()
+            
+            if len(resp.text) > 1000:  # 确保返回了有效内容
+                print(f"镜像 {i+1} 成功")
+                return resp.text, None
+            else:
+                print(f"镜像 {i+1} 返回内容过短，跳过")
+                
+        except requests.RequestException as e:
+            print(f"镜像 {i+1} 失败: {e}")
+            continue
+    
+    return None, "所有访问方式都失败"
 
 def parse_articles_from_text(text: str, base_url: str):
     """从纯文本中解析文章"""
@@ -211,7 +242,7 @@ def generate_rss(url, output_file):
     html, err = fetch_html_with_mirror(url)
     if err:
         print(err)
-        return
+        raise SystemExit(1)
 
     if html:
         print(f"[2/4] 页面长度：{len(html)} 字符，开始解析…")
@@ -222,7 +253,7 @@ def generate_rss(url, output_file):
     print(f"[3/4] 提取文章条数：{len(articles)}")
     if not articles:
         print("没有解析到任何文章。")
-        return
+        raise SystemExit(2)
 
     rss = ET.Element("rss")
     rss.set("version", "2.0")
