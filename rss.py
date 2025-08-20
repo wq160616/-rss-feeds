@@ -29,7 +29,8 @@ def fetch_html_with_mirror(url: str):
     session.mount("http://", HTTPAdapter(max_retries=retries))
 
     print(f"[1/4] 开始请求页面：{url}")
-    mirror = "https://r.jina.ai/http://" + url.replace("https://", "").replace("http://", "")
+    # 替换镜像服务
+    mirror = "https://api.allorigins.win/raw?url=" + url
     print(f"使用镜像抓取：{mirror}")
     
     try:
