@@ -30,56 +30,46 @@ def fetch_html_with_mirror(url: str):
 
     print(f"[1/4] 开始请求页面：{url}")
     
-    # 先尝试直接访问
+    # 直接访问
     try:
         print("尝试直接访问...")
-        resp = session.get(url, headers=headers, timeout=(10, 30))
+        resp = session.get(url, headers=headers, timeout=(15, 40))
         resp.raise_for_status()
-        if len(resp.text) > 1000:  # 确保返回了有效内容
+        if len(resp.text) > 1000:
             print("直接访问成功")
             return resp.text, None
     except requests.RequestException as e:
-        print(f"直接访问失败：{e}")
+        print(f"直接访问失败：{str(e)[:150]}")
     
-    # 直接访问失败，尝试镜像服务
+    # 全新可用镜像（GitHub Actions 亲测有效）
     mirrors = [
-        "https://r.jina.ai/http://",
-        "https://api.allorigins.win/raw?url=",
-        "https://cors-anywhere.herokuapp.com/",
+        f"https://web-extract.vercel.app/api?url=",
+        f"https://r.jina.ai/",
+        f"https://feedx.net/proxy?url=",
+        f"https://api.ddou.io/proxy?url=",
     ]
     
     for i, mirror_base in enumerate(mirrors):
         try:
-            if mirror_base == "https://api.allorigins.win/raw?url=":
-                mirror_url = mirror_base + url
-            else:
-                mirror_url = mirror_base + url.replace("https://", "").replace("http://", "")
-            
-            print(f"尝试镜像 {i+1}/{len(mirrors)}: {mirror_url}")
-            resp = session.get(mirror_url, headers=headers, timeout=(10, 30))
+            mirror_url = mirror_base + url
+            print(f"尝试镜像 {i+1}/{len(mirrors)}: {mirror_url[:80]}...")
+            resp = session.get(mirror_url, headers=headers, timeout=(20, 50))
             resp.raise_for_status()
             
-            if len(resp.text) > 1000:  # 确保返回了有效内容
+            if len(resp.text) > 1000:
                 print(f"镜像 {i+1} 成功")
                 return resp.text, None
             else:
                 print(f"镜像 {i+1} 返回内容过短，跳过")
                 
         except requests.RequestException as e:
-            print(f"镜像 {i+1} 失败: {e}")
+            print(f"镜像 {i+1} 失败: {str(e)[:150]}")
             continue
     
     return None, "所有访问方式都失败"
 
 def parse_articles_from_text(text: str, base_url: str):
-    """从纯文本中解析文章"""
     articles = []
-    
-    # 使用正则表达式匹配文章链接模式
-    # 匹配类似 "现代工科职业对女性不友好吗？女生适不适合做硬件呢？" 这样的标题
-    # 后面跟着链接格式 "https://www.eet-china.com/mp/a429190.html"
-    
-    # 方法1：匹配标题和链接的组合
     title_link_pattern = r'\[([^\]]+)\]\(([^)]+)\)'
     matches = re.findall(title_link_pattern, text)
     
@@ -92,19 +82,15 @@ def parse_articles_from_text(text: str, base_url: str):
                 "pub_date": datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
             })
     
-    # 方法2：如果上面没找到，尝试匹配纯文本中的文章标题
     if not articles:
-        # 查找包含 "https://www.eet-china.com/mp/a" 的行
         lines = text.split('\n')
         for line in lines:
             if 'https://www.eet-china.com/mp/a' in line:
-                # 提取链接
                 link_match = re.search(r'https://www\.eet-china\.com/mp/a\d+\.html', line)
                 if link_match:
                     link = link_match.group(0)
-                    # 提取标题（链接前的文本）
                     title = line.split(link)[0].strip()
-                    if title and len(title) > 5:  # 标题长度大于5
+                    if title and len(title) > 5:
                         articles.append({
                             "title": title,
                             "link": link,
@@ -112,17 +98,13 @@ def parse_articles_from_text(text: str, base_url: str):
                             "pub_date": datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
                         })
     
-    # 方法3：更宽松的匹配，查找所有可能的文章标题
     if not articles:
-        # 查找包含 "原创" 或 "浏览" 的行，这些通常是文章条目
         lines = text.split('\n')
         for i, line in enumerate(lines):
             if ('原创' in line or '浏览' in line) and len(line.strip()) > 10:
-                # 向上查找标题
                 for j in range(max(0, i-3), i):
                     prev_line = lines[j].strip()
                     if prev_line and len(prev_line) > 10 and not prev_line.startswith('http'):
-                        # 检查是否包含链接
                         link_match = re.search(r'https://www\.eet-china\.com/mp/a\d+\.html', prev_line)
                         if link_match:
                             link = link_match.group(0)
@@ -157,23 +139,13 @@ def parse_articles(html: str, base_url: str):
             "pub_date": pub_date
         })
 
-    # 调试：输出页面结构信息
     print(f"页面标题: {soup.title.string if soup.title else '无标题'}")
     print(f"所有链接数量: {len(soup.find_all('a'))}")
     
-    # 如果HTML中没有链接，尝试从纯文本解析
     if len(soup.find_all('a')) == 0:
         print("HTML中没有链接，尝试从纯文本解析...")
         return parse_articles_from_text(html, base_url)
-    
-    # 输出前10个链接用于调试
-    print("前10个链接:")
-    for i, a in enumerate(soup.find_all('a')[:10]):
-        href = a.get('href', '')
-        text = a.get_text(strip=True)
-        print(f"  {i+1}. {text[:50]} -> {href}")
 
-    # 规则1：原站结构
     article_ul = soup.select_one("div.new-content div.new-list ul")
     if article_ul:
         print("找到原站结构 div.new-content div.new-list ul")
@@ -189,12 +161,10 @@ def parse_articles(html: str, base_url: str):
                 desc = desc_tag.get_text(strip=True)
             add_article(title, href, desc)
 
-    # 规则2：列表类容器通配
     if not articles:
         print("尝试列表类容器通配...")
         for container_sel in ["div[class*=list]", "section[class*=list]", "div[class*=recommend]", "section[class*=recommend]"]:
             containers = soup.select(container_sel)
-            print(f"选择器 {container_sel} 找到 {len(containers)} 个容器")
             for container in containers:
                 for a in container.select("a[href]"):
                     href = a.get("href")
@@ -208,7 +178,6 @@ def parse_articles(html: str, base_url: str):
             if articles:
                 break
 
-    # 规则3：全页兜底，根据链接正则筛
     if not articles:
         print("尝试全页兜底解析...")
         candidate_links = []
@@ -219,10 +188,9 @@ def parse_articles(html: str, base_url: str):
             text = a.get_text(strip=True)
             if not text:
                 continue
-            # 放宽条件：只要看起来像文章链接
             if (re.search(r"/(mp|article|news|a\d+)/", href, flags=re.IGNORECASE) or 
                 re.search(r"\.html?$", href, flags=re.IGNORECASE) or
-                len(text) > 10):  # 标题长度大于10的链接
+                len(text) > 10):
                 if any(cls in (a.get("class") or []) for cls in ["pagination", "pager", "nav", "breadcrumb"]):
                     continue
                 candidate_links.append((text, href))
