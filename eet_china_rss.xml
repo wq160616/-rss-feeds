@@ -4,572 +4,586 @@
     <title>EET-China 推荐内容</title>
     <link>https://www.eet-china.com/mp/recommended</link>
     <description>EET-China 推荐页面的自定义 RSS 订阅源</description>
-    <lastBuildDate>Sat, 11 Jul 2026 17:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:09:46 GMT</lastBuildDate>
     <item>
       <title>登录｜注册</title>
       <link>https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</guid>
     </item>
     <item>
       <title>热门</title>
       <link>https://www.eet-china.com/mp/recommended</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/recommended</guid>
     </item>
     <item>
       <title>专栏作家</title>
       <link>https://www.eet-china.com/mp/writers</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/writers</guid>
     </item>
     <item>
       <title>电子产业热词</title>
       <link>https://www.eet-china.com/mp/tags</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/tags</guid>
     </item>
     <item>
       <title>登录</title>
       <link>https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://mbb.eet-china.com/member.php?mod=logging&amp;action=login&amp;next=https://www.eet-china.com/mp/recommended</guid>
     </item>
     <item>
       <title>专栏作家</title>
       <link>https://www.eet-china.com/mp/writers</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/writers</guid>
     </item>
     <item>
       <title>精选推荐</title>
       <link>https://www.eet-china.com/mp/recommended</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/recommended</guid>
     </item>
     <item>
       <title>一周热点</title>
       <link>https://www.eet-china.com/mp/hotweekly</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/hotweekly</guid>
     </item>
     <item>
       <title>月度热点</title>
       <link>https://www.eet-china.com/mp/hotmonthly</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/hotmonthly</guid>
     </item>
     <item>
       <title>年度热点</title>
       <link>https://www.eet-china.com/mp/hotyearly</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/hotyearly</guid>
     </item>
     <item>
-      <title>一个“子比母贵”的AI芯片故事</title>
-      <link>https://www.eet-china.com/mp/a509101.html</link>
+      <title>什么是DPU？为什么它突然火了？</title>
+      <link>https://www.eet-china.com/mp/a509223.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509101.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509223.html</guid>
     </item>
     <item>
-      <title>前两天有个词条突然火了起来——“昆仑芯要超越百度了”。初看像句玩笑话。一个子公司，怎么能超越母公司呢？但翻完这几天的新闻和数据，我发现这还真不是一个段子。根据多家媒体报道，百度旗下AI芯片公司昆仑芯正在推进港股IPO，目标估值高达500亿美元（约合人民币3400亿元）。而截至6月30日收盘，百度集团港股市值约为2983亿港元，约合380亿美元。换句话说，子公司还没上市，给自己定的目标价，已经比母公</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
+      <title>云豹智能，这家2020年才成立的公司，6月30日刚被深交所受理了创业板IPO申请。它要冲刺的不是别的，正是“国产DPU第一股”。一个创立仅六年的公司，如何能成为“第一股”？它的成色究竟如何？一、什么是DPU？为什么它突然火了？要理解云豹智能，得先理解DPU是什么。DPU（数据处理器），是英伟达CEO黄仁勋定义的、与CPU和GPU并列的“数据中心三大核心芯片”之一。打个比方：CPU是大脑，负责复杂决</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>燧原科技注册生效 思朗科技获受理</title>
+      <link>https://www.eet-china.com/mp/a509211.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509211.html</guid>
+    </item>
+    <item>
+      <title>我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？</title>
+      <link>https://www.eet-china.com/mp/a509209.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509209.html</guid>
+    </item>
+    <item>
+      <title>大模型“双雄”，相继发布内部信</title>
+      <link>https://www.eet-china.com/mp/a509212.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509212.html</guid>
+    </item>
+    <item>
+      <title>赛力斯半年报暴雷：预亏超15亿！</title>
+      <link>https://www.eet-china.com/mp/a509206.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509206.html</guid>
+    </item>
+    <item>
+      <title>造车新势力再添一员，首台ET车下线</title>
+      <link>https://www.eet-china.com/mp/a509204.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509204.html</guid>
+    </item>
+    <item>
+      <title>世界模型 101：概念、技术争鸣与科学应用</title>
+      <link>https://www.eet-china.com/mp/a509203.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509203.html</guid>
+    </item>
+    <item>
+      <title>把大模型塞进FPGA，被我出成了课程大作业</title>
+      <link>https://www.eet-china.com/mp/a509196.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509196.html</guid>
+    </item>
+    <item>
+      <title>鸿蒙智行全新车型曝光</title>
+      <link>https://www.eet-china.com/mp/a509195.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509195.html</guid>
+    </item>
+    <item>
+      <title>净利飙涨69%！京东方玻璃基板走“玻璃芯+ABF”路线，打开另一个千亿增长曲线！</title>
+      <link>https://www.eet-china.com/mp/a509192.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509192.html</guid>
+    </item>
+    <item>
+      <title>重磅！TCL华星G5.5代线27寸印刷OLED完成内部最终验证即将量产</title>
+      <link>https://www.eet-china.com/mp/a509186.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509186.html</guid>
+    </item>
+    <item>
+      <title>中国TCL华星将提前推进中大尺寸 OLED 量产，显示器、笔记本、平板等高端 IT 显示市场或将迎来不可避免的行业大洗牌。TCL华星光电（TCL CSOT）采用喷墨打印技术研发的27 英寸 4K 120Hz RGB 条纹 OLED 显示器面板已完成内部最终验证，即将正式进入量产阶段。除去医疗等特种用途显示器外，这也是 TCL 首次自主量产中大尺寸 OLED 面板。据悉该面板亮度可达 300 尼特，</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>从NVIDIA到AMD，AI近芯供电破局之路：54V到0.8单级VRM、垂直供电、嵌入式SiC、金刚石基板与液态金属互连、低应力封装、自适应ZVS</title>
+      <link>https://www.eet-china.com/mp/a509185.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509185.html</guid>
+    </item>
+    <item>
+      <title>SysPro电力电子技术-技术前瞻从NVIDIA到AMD，AI近芯供电破局之路：54V到0.8单级VRM、垂直供电、嵌入式SiC、低应力封装、自适应ZVSSysPro电力电子技术 | 参考来源：Prof. Teng Long, Cambridge University▲ 背景趋势：AI计算把电源从服务器电源链路推向近芯、垂直和封装级集成。● 核心价值：真正的竞争不只是效率，</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>如何将三个两端口 S参数合成一个三端口 S参数？ADS 入门</title>
+      <link>https://www.eet-china.com/mp/a509182.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509182.html</guid>
+    </item>
+    <item>
+      <title>对于一个三端口器件，当使用两端口网络分析仪分别测试了三组S参数后，可以将这三组两端口S参数合成为一个三端口S参数。在ADS软件中，可以参考自带的例子进行 S参数的合成：或者通过原理图菜单Tools-&gt; Data File Utilities使用上述方法将三个两端口的S参数合成一个三端口的S参数的前提条件是在对三端口网络进行两端口S参数测试时，三端口器件的第三个端口必须使用50欧姆负</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>设计一套六维力传感器的信号链需要考虑什么？</title>
+      <link>https://www.eet-china.com/mp/a509181.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509181.html</guid>
+    </item>
+    <item>
+      <title>之前写过一点桥电路的内容，现在深化一下相关的内容，如果一直写应变片什么的好像有点老土了；先讲一点历史，现在 ADI 有 1796 个转换产品，其中大多数人熟知的是 AD7xxx 系列，今年是 AD4xxx 系列。LHA753x ：六维力传感器采集的好兄弟为六维力传感器设计一个信号链系统（以LHA7543 为核心）为六维力传感器设计一个信号链系统（以LHA7543 为核心）.修正版跟着张老师一起分析</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>小米汽车官方回应澎程价格</title>
+      <link>https://www.eet-china.com/mp/a509179.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509179.html</guid>
+    </item>
+    <item>
+      <title>点击上面↑“电动知家”关注，记得加☆“星标”！小米汽车全新系列SkyNomad澎程宣发越来越密集，预示着离上市时间越来越近了。对于小米的新车，大家最关心的可能还是价格，根据相关人士爆料，五座版N70预计在25万左右，七座版N90预计30万元左右。不过也有部分博主预测五座版N70低于20万，甚至在19万左右。可以说目前网上各种预测满天飞，从15万到25万的猜测都有。针对部分网络流传的一些低价预测，小</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>热搜第一！华为投诉删帖！</title>
+      <link>https://www.eet-china.com/mp/a509170.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509170.html</guid>
+    </item>
+    <item>
+      <title>点击上面↑“电动知家”关注，记得加☆“星标”！昨天写了篇“余承东内部群发飙热搜第一”的文章，没想到被“华为终端有限公司”投诉要求删帖了。都是微博热搜第一的事情，居然在微信公众号投诉删帖，也是我没想到的。我们再来回顾一下具体是什么事情，然后再看这个他们是如何投诉的。7月8日，上海一位问界M8车主通过媒体投诉热线反映问题，指出问界M8在软件设计上可能存在缺陷（隐私安全隐患），即便在App中手动关闭被授</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>AI不是全能，你没有一点嵌入式基础，最牛逼的AI也不能帮你做完一个项目</title>
+      <link>https://www.eet-china.com/mp/a509169.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509169.html</guid>
+    </item>
+    <item>
+      <title>关注+星标公众号，不错过精彩内容作者 | strongerHuang公众号 | strongerHuang今天的 AI 虽然已经发展的很成熟了，也能做很多工作，但它绝对不是万能的。就拿嵌入式开发来说，虽然AI能写代码，但一个做嵌入式开发的公司，绝对需要有程序员介入才能完成一个真正落地的商业项目。作为程序员个人来说，如果你没有一点嵌入式基础，比如：你不懂串口通信的原理，AI帮你生成一个（网上的）示例</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>小米、蔚来入股，“国内第一、全球第四”汽车座舱龙头IPO成色几何？</title>
+      <link>https://www.eet-china.com/mp/a509163.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509163.html</guid>
+    </item>
+    <item>
+      <title>2026高工智能汽车全域AI技术峰会时间：2026年7月28日峰会地点：上海新华联索菲特大酒店演讲企业：吉利、岚图、东风、QNX、德赛西威、经纬恒润、亿咖通、易特驰、福瑞泰克、瑞发科、宽恒科技等10+企业高层发表精彩演讲，同时还将有300+细分领域重量级企业，600+智能汽车产业链高层出席。报名&amp;合作咨询：点击链接，即可报名参会近日，国内汽车座舱舒适系统领域的龙头企业——安闻科技集团股份有</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>手机成大模型竞争新赛场，AI“超级载体”利好哪些硬件环节？</title>
+      <link>https://www.eet-china.com/mp/a509148.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509148.html</guid>
+    </item>
+    <item>
+      <title>在即将举行的2026世界人工智能大会上，中兴努比亚亦将展出AI智能体手机。作者 | 张真随着人工智能技术不断发展，多款AI手机正陆续涌现。《科创板日报》获悉，阶跃星辰即将发布AI终端品牌、智能体系统及其首款AI智能体手机。另据知情人士透露，该AI智能体手机由A股上市公司华勤技术负责代工生产。华勤技术与阶跃星辰为深度绑定合作关系，并非简单的贴牌代工模式。阶跃星辰是国内在终端Agent场景投入最大的大</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>2026VLSI联发科发布：无需大型算力 如何利用AI 工具达到PPA 最佳优化水平 重构芯片后端设计流程 | 建议收藏</title>
+      <link>https://www.eet-china.com/mp/a509147.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509147.html</guid>
+    </item>
+    <item>
+      <title>先进制程物理缩放逼近极限，GAA、CFET 等新工艺带来时序、漏电、热应力多重设计难题；AI 大芯片晶体管规模呈现指数级增长，验证、布局布线工作量负荷膨胀，如果还是采用人工的手段不耐其烦一遍遍的去调整PPA的最优解，在AI时代显得不合时宜和跟不上目前芯片发展迭代的效率。2026VLSI联发科正式发布，在无需大型算力前提下，用自研GNN + 强化学习AI 布局规划全流程落地方案，覆盖芯片顶层 Flo</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
+    </item>
+    <item>
+      <title>买车送上下铺！小米澎程，年轻人的第一台“红米房车”？</title>
+      <link>https://www.eet-china.com/mp/a509145.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509145.html</guid>
+    </item>
+    <item>
+      <title>关注「电动车公社」和我们一起重新思考汽车这几天，车圈又双叒叕被小米汽车刷屏了，满世界都是全新产品系列SKYNOMAD，小米澎程的消息。其首款车型，定位全尺寸增程SUV的澎程N90将会在7月底亮相，8月份上市。或许是考虑到更偏向家庭的定位，它并没有沿用SU7/YU7的运动风格设计，而是采用了偏方正硬朗的“路虎式造型”，视觉上更加沉稳。与此同时，另一台5座中大型SUV澎程N70，也同步登上了最新的工信</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
     </item>
     <item>
       <title>2026年汽车行业调研报告汇总</title>
-      <link>https://www.eet-china.com/mp/a509100.html</link>
+      <link>https://www.eet-china.com/mp/a509144.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509100.html</guid>
-    </item>
-    <item>
-      <title>小米新汽车品牌发布后：股价反弹超21%、走出下跌趋势？</title>
-      <link>https://www.eet-china.com/mp/a509098.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509098.html</guid>
-    </item>
-    <item>
-      <title>从福布斯的李柯访谈看比亚迪：产品技术和出海战略</title>
-      <link>https://www.eet-china.com/mp/a509097.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509097.html</guid>
-    </item>
-    <item>
-      <title>趋势丨港口无人驾驶市场增速领跑，能否成为新的增长极？</title>
-      <link>https://www.eet-china.com/mp/a509095.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509095.html</guid>
-    </item>
-    <item>
-      <title>“余承东内部群发飙”热搜第一</title>
-      <link>https://www.eet-china.com/mp/a509089.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509089.html</guid>
-    </item>
-    <item>
-      <title>小米痛斥澎程被批量抹黑！</title>
-      <link>https://www.eet-china.com/mp/a509082.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509082.html</guid>
-    </item>
-    <item>
-      <title>50Ω/75Ω/85Ω/90Ω/100Ω阻抗背后的底层逻辑!</title>
-      <link>https://www.eet-china.com/mp/a509116.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509116.html</guid>
-    </item>
-    <item>
-      <title>众泰汽车被立案调查！</title>
-      <link>https://www.eet-china.com/mp/a509070.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509070.html</guid>
-    </item>
-    <item>
-      <title>1000瓦的GPU！铜不行了，金刚石成AI芯片散热的“终极答案”？</title>
-      <link>https://www.eet-china.com/mp/a509067.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509067.html</guid>
-    </item>
-    <item>
-      <title>现场直击 | PI荣获EESTAR方案之星</title>
-      <link>https://www.eet-china.com/mp/a509066.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509066.html</guid>
-    </item>
-    <item>
-      <title>今日，由电源网主办的2026电子方案大会现场，PI 携多款核心产品和实测demo亮相，并带来专题演讲。高压氮化镓赋能800VDC AI数据中心PI技术专家余兴现场详解1250V和1700V PowiGaN™器件适配英伟达800VDC AI数据中心架构的核心优势。随着AI数据中心对功率密度的需求持续攀升，高压氮化镓已成为功率转换领域的未来发展方向。相较于1200V SiC MOSFET，</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>离谱，GPT-5.6 竟然在后台执行了 rm -rf 。。。</title>
-      <link>https://www.eet-china.com/mp/a509059.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509059.html</guid>
-    </item>
-    <item>
-      <title>点击上方蓝字关注我，加个🌟标不迷路。大家好，我是 cxuan。昨天 GPT 5.6 正式公开，某知名社交平台上全是牛批、卧槽、吊打 Fable 5，很多号主也在跟着吹。但我昨天其实就说过：我要给 GPT 5.6 浇盆冷水。我预感它效果没那么好。都在吹 GPT 5.6，但我可能得泼点冷水了。结果发布才一天多，风向就开始变了。。。。。昨天我没收到 Sol 的推送，所以先测了 Terra。发布时官方口径</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>你的5G手机信号差，可能不是因为基站少，而是被手机厂商“砍”掉了一个关键频段——n41</title>
-      <link>https://www.eet-china.com/mp/a509052.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509052.html</guid>
-    </item>
-    <item>
-      <title>关注▲射频美学▲ ，一起学习成长这是射频美学的第 2221 期分享。来源 | 整编；微圈 | 进微信群,加微信: RFtogether521 ；备注|昵称+地域+产品及岗位方向 （如大魔王+上海+芯片射频工程师）；定位|学手机射频，上射频美学；宗旨 | 看见即自由。很多人以为5G信号好坏只取决于基站覆盖</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>2026年汽车行业调研报告汇总</title>
-      <link>https://www.eet-china.com/mp/a509047.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509047.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509144.html</guid>
     </item>
     <item>
       <title>一览众咨询公司专注于汽车产业链领域的产业研究、咨询及品牌推广。经过多年的发展，公司在汽车领域积累较深的行业经验及客户资源，是该领域专业权威的第三方市场研究咨询机构。一览众咨询公司主要业务包括：市场调研、产业研究及品牌推广。【市场调研】：一览众咨询市场调研业务涉及汽车全产业链，包括：消费者调查、品牌满意度调研、标杆企业调研、市场准入调研、营销渠道调研、市场环境调研、市场供需调研等。【产业研究】：一览</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
     </item>
     <item>
-      <title>所有车企注意：重大隐私安全漏洞！某车企高层震怒：不吃不喝不睡觉！立即、马上解决！</title>
-      <link>https://www.eet-china.com/mp/a509044.html</link>
+      <title>欧洲车市 | 俄罗斯2026年5月：哈弗大涨49%，中国车占车型榜半数</title>
+      <link>https://www.eet-china.com/mp/a509142.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509044.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509142.html</guid>
     </item>
     <item>
-      <title>点击上面↑“电动知家”关注，记得加☆“星标”！电动知家消息，近日，汽车圈爆出智能汽车一个重大的隐私安全漏洞，开始是一个车主爆出的某个汽车品牌的某款车，但是后来发现不止这个品牌的这个款车，其他品牌之前也存在这个问题，进而发现可能很多品牌都存在这个问题，也希望引起所有汽车品牌的注意。事情是这样的，近日，某品牌车主在和一个汽车博主连线时，投诉某品牌在软件设计上可能存在重大缺陷（隐私安全隐患）。据该车主描</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
+      <title>芝能汽车出品俄罗斯新车市场在2026年5月延续了强劲增长：单月注册量达到109,892辆，同比大涨20.5%，增速在主要市场中名列前茅。上半年累计销量已达492,342辆，同比增长11.8%，显示出在西方品牌撤离后，本土与友好品牌已重建起相对稳定的供给体系。备注：俄罗斯市场官方最新披露的完整数据截至2026年5月，以下分析基于5月口径。从体量看，俄罗斯月销稳定在11万辆左右，是东欧最具规模的市场之</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
     </item>
     <item>
-      <title>SysPro电力电子技术-技术前瞻900V SiC固态断路器的难点：不是纳秒关断本身，而是六颗并联芯片能不能同步分担能量SysPro电力电子技术 | 参考来源：Fraunhofer▲高压 DC 保护的难点，已经不是“能不能断开”这么简单，而是 纳秒级清除、双向 900V 模块、单片 SiC SSCB、六芯片并联和电热能量分担 必须同时成立。●这份材料真正</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
+      <title>李斌大谈ES8大五座后备厢的体面：蔚来均价44.3万的背后，高端纯电如何做？</title>
+      <link>https://www.eet-china.com/mp/a509141.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509141.html</guid>
     </item>
     <item>
-      <title>长沙在深圳，拆解一道人才与产业的“链接题”</title>
-      <link>https://www.eet-china.com/mp/a509038.html</link>
+      <title>芝能汽车出品蔚来ES8大五座刚上市，李斌就花了大半小时，讲后备厢。在乐道L90和蔚来ES8讲前备箱以后，这次ES8大五座，讲后备厢怎么既装得下、又看不出装了什么，讲得认真，藏着最较劲的地方。Part 1 乘储分离，一台大五座最较劲的地方大五座是原生车型。立项在两年前。李斌想的是用户要什么，没去凑这个市场的热闹。◎他和秦力洪，做蔚来之前都是轿车用户。轿车好在哪？人货分开，眼不见</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509038.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
     </item>
     <item>
-      <title>第十四期高创班赴深学习，长沙的人才账本，开始算到产业链上。@松果财经原创作者|夏天七月，深圳。一间教室里坐满了从长沙来的学员。他们不是来考察的，是来“拆题”的。一群人，一周培训，7场活动，28个合作意向，一场从星城到鹏城的产业对话，让我们看到了长沙建设全球研发中心城市、年轻人友好城市的另一种打开方式。第十四期高层次人才创新创业专题培训班，把课堂从长沙搬到了深圳。课程表上写的是AI、芯片、低空经济，</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
+      <title>自动驾驶激光雷达为什么在雨雾天气下表现不佳？</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
     </item>
     <item>
-      <title>谁能问鼎？从VLA、世界模型到物理AI，年度智驾大模型标杆供应商入围公示</title>
-      <link>https://www.eet-china.com/mp/a509035.html</link>
+      <title>这两天，随着台风巴威逐步逼近，我国东南沿海地区将迎来持续性强降水和狂风天气，部分地区能见度显著降低，路面湿滑且存在积涝风险。气象部门提醒公众，台风影响期间应尽量减少不必要的外出，注意人身安全。其实在雨雾天气中，自动驾驶的系统稳定性也会有所降低，以激光雷达为例，其一直被视为整车的眼睛，它通过发射激光脉冲并接收回波来构建周围环境的三维点云。然而，这双眼睛并非在任何时候都能看清前方，每当遇到大雨、浓雾或</title>
+      <link>https://www.eet-china.com/mp/a509140.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509035.html</guid>
-    </item>
-    <item>
-      <title>随着软件定义汽车全面进入规模化量产周期，中央计算 + 区域控制作为下一代整车电子电气（EEA）架构的核心底座，正在重构智能汽车产业链竞争格局。由高工智能汽车研究院主办的年度行业评选，是国内聚焦智能汽车前装量产、具备权威产业公信力的标杆评选。本届评选紧扣行业 “全域融合、软硬解耦、量产落地” 核心趋势，针对中央计算 HPC、区域控制器 ZCU、舱驾融合一体化架构等核心产品方案设立奖项，基于高工智能汽</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>Q2净利暴涨1324%，南亚科技毛利率逼近80%！</title>
-      <link>https://www.eet-china.com/mp/a509031.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509031.html</guid>
-    </item>
-    <item>
-      <title>7月10日，DRAM厂商南亚科技召开法说会，公布了2026年二季度业绩。受益于DRAM合约价大幅上涨，南亚科技二季度营收同比暴涨近7倍，净利同比暴涨超13倍，单季毛利率达到了79.5%的历史新高，交出令市场惊叹的炸裂成绩单。二季度净利暴涨1324%，毛利率近80%具体来说，南亚科技第二季营收达到了新台币825.49亿元，同比暴涨约684%，环比大涨68.2%；营业毛利润为新台币656.19亿元；毛</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>日本重磅宣布将部署1000万台AI机器人；采购500套移动机器人！美的库卡拿下3亿元订单</title>
-      <link>https://www.eet-china.com/mp/a509028.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509028.html</guid>
-    </item>
-    <item>
-      <title>动态速览▣日本重磅宣布将部署1000万台AI机器人▣采购500套移动机器人！美的库卡拿下3亿元订单▣中科新松完成数亿元A+轮融资▣珞石机器人在港交所挂牌上市！▣海康机器人累计下线20万台AMR！▣ABB推出F712自主叉车▣宇树人形机器人G1远程完成活体微创手术▣杭州一具身智能创企实现最快百台交付！▣&amp;</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>批量变压器 EMI 不稳？CMRR 快速检测方案推荐</title>
-      <link>https://www.eet-china.com/mp/a509026.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509026.html</guid>
-    </item>
-    <item>
-      <title>欢迎来到电源设计小贴士 Power Tips系列文章本期，我们将继续介绍如何表征电源变压器的电磁干扰性能的详细知识⏰全文约2,500字，阅读时长约8分钟变压器噪声来源解析在隔离式开关电源转换器中，电源变压器通常是共模噪声的主要来源。为什么？因为在变压器内部，处于隔离屏障两侧的原边绕组与副边绕组间距极小（通常不足 1 毫米），这使得相邻绕组间产生了明显的寄生电容。这些绕组上所呈现的电压，</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>虽然都叫操作系统，此OS非彼OS</title>
-      <link>https://www.eet-china.com/mp/a509025.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509025.html</guid>
-    </item>
-    <item>
-      <title>优秀项目推荐：具身智能机器人&amp;操作系统（B轮）、新构型eVTOL飞机（天使+轮）、具身智能数据仿真（A+轮）、商业航天地面通信设备（A轮B轮）、遥算一体SAR卫星载荷（Pre-A轮）、人形机器人压力传感器（B轮可落产能）、新型储能项目（A轮&amp;Pre-IPO）、行业监测传感器&amp;设备（并购项目征集）……欢迎深入交流。巧了，最近在重点推进的两个项目，都和操作系统相关，一个是AIO</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>物理重构终结MIP&quot;顶伤&quot;死穴：卓兴倒装固晶工艺重定义量产良率天花板</title>
-      <link>https://www.eet-china.com/mp/a509024.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509024.html</guid>
-    </item>
-    <item>
-      <title>晶粒顶伤正在成为Micro LED直显从试产迈向规模化量产最致命的技术卡点。随着芯片尺寸从3.5×7mil持续微缩至2×4mil，PCB制程的工艺窗口每收缩1μm便收窄约15%，传统曝光、蚀刻及AOI检测手段的精度天花板已然显现。行业数据显示，顶伤不良在固晶总不良中的占比已攀升至20%～30%，且芯片尺寸越小占比越高，这是制约良率爬坡最顽固的障碍。传统正装固晶的顶伤问题并非参数漂移，而是物理结构带</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>- 关于《Mercedes-Benz MMA平台》系列文章- 文字原创，素材来源：Mercedes-Benz,网络等- 本篇为知识星球节选，完整版报告与解读在知识星球发布- 1500+全球前瞻技术报告与解析已上传知识星球导语：全球汽车电动化转型风起云涌，梅赛德斯 - 奔驰全面电动化战略正加速推进，节奏紧紧贴合全球客户多元出行需求。为满足市场多样期待，奔驰于全新 MMA 架构中，创新推出混合动力驱动</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>一家海外知名机器人公司想找我做开发，说对比了一圈，还是想找中国团队做，问我有没有可靠的团队，敢不敢接</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
-    </item>
-    <item>
-      <title>前几天，我收到一个挺有意思的询盘。一家在国外颇有名气的机器人公司，主动找到我，想让我帮他们对接中国的研发团队，做机器人产品开发。他们说，之前也接触过欧洲和北美的工程公司，但对比下来发现：中国团队响应快、迭代周期短、软硬件+供应链能一站式配合，从图纸到样机的速度，几乎快出一倍。所以他们直接问我：「你这边有没有合适的中国团队可以做？如果没有，能不能介绍几家真正靠谱的？」我手里没有固定的&quot;推荐名单&quot;，也</title>
-      <link>https://www.eet-china.com/mp/a509017.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a509017.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a509140.html</guid>
     </item>
     <item>
       <title>长鑫科技7月16日申购，单签能赚多少？</title>
       <link>https://www.eet-china.com/mp/a508633.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508633.html</guid>
     </item>
     <item>
       <title>GPT-5.6 官宣解禁，明天全量发布！</title>
       <link>https://www.eet-china.com/mp/a508271.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508271.html</guid>
     </item>
     <item>
       <title>都在吹 GPT 5.6，但我可能得泼点冷水了。</title>
       <link>https://www.eet-china.com/mp/a508745.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508745.html</guid>
-    </item>
-    <item>
-      <title>华为：“韬定律”V2版论文（附合集）</title>
-      <link>https://www.eet-china.com/mp/a507479.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507479.html</guid>
     </item>
     <item>
       <title>华为最大规模超节点真机、全球首款AI智能体手机……！即将登场世界人工智能大会</title>
       <link>https://www.eet-china.com/mp/a507975.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507975.html</guid>
     </item>
     <item>
       <title>当《自然·能源》还在讨论‘固态电池能否商业化’，宁德时代已经把答案装上了车</title>
       <link>https://www.eet-china.com/mp/a508483.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508483.html</guid>
     </item>
     <item>
       <title>国家自然科学一等奖！江风益团队改写氮化镓LED底层理论</title>
       <link>https://www.eet-china.com/mp/a508399.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508399.html</guid>
     </item>
     <item>
       <title>Cursor 掀桌子了，Grok 4.5 这次要上天了？</title>
       <link>https://www.eet-china.com/mp/a508513.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508513.html</guid>
     </item>
     <item>
       <title>苹果史上最狠泄密！印度工厂被黑，iPhone 18 Pro主板设计图被扒光</title>
       <link>https://www.eet-china.com/mp/a507935.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507935.html</guid>
     </item>
     <item>
       <title>华为发布“韬（τ）定律”V2版本论文，全文详解！</title>
       <link>https://www.eet-china.com/mp/a507651.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507651.html</guid>
     </item>
     <item>
       <title>即将“上机”！华为首款“韬定律”麒麟芯片来了</title>
       <link>https://www.eet-china.com/mp/a507767.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507767.html</guid>
     </item>
     <item>
       <title>全球首款2nm高性能计算CPU！AMD官宣：Zen 6 EPYC Venice 7月22日发布</title>
       <link>https://www.eet-china.com/mp/a508943.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508943.html</guid>
+    </item>
+    <item>
+      <title>比亚迪新车上市：130万元起</title>
+      <link>https://www.eet-china.com/mp/a508721.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a508721.html</guid>
     </item>
     <item>
       <title>PCB成关键瓶颈？机构爆料：英伟达Kyber机架或遇延迟</title>
       <link>https://www.eet-china.com/mp/a507629.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507629.html</guid>
-    </item>
-    <item>
-      <title>开启全球化！华为AI芯片正式进军韩国，成为全球“第二选择”！</title>
-      <link>https://www.eet-china.com/mp/a507537.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507537.html</guid>
     </item>
     <item>
       <title>重磅！江风益院士获国家自然科学一等奖！</title>
       <link>https://www.eet-china.com/mp/a508346.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508346.html</guid>
-    </item>
-    <item>
-      <title>ECTC2026先进封装技术前瞻洞察 · 系列一 | 先进封装底座：扇出、RDL、玻璃基板与面板级制造</title>
-      <link>https://www.eet-china.com/mp/a507470.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507470.html</guid>
     </item>
     <item>
       <title>又一家企业发布SST，合计超32家（附盘点）</title>
       <link>https://www.eet-china.com/mp/a508555.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508555.html</guid>
-    </item>
-    <item>
-      <title>斥资超19亿元整合核心资产！彩虹股份全资锁定玻璃基板赛道</title>
-      <link>https://www.eet-china.com/mp/a507845.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507845.html</guid>
-    </item>
-    <item>
-      <title>阳光电源：SiC固态变压器发售，签约130MW</title>
-      <link>https://www.eet-china.com/mp/a508768.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a508768.html</guid>
     </item>
     <item>
       <title>字节跳动采用800V HVDC，合作伙伴有哪些？</title>
       <link>https://www.eet-china.com/mp/a508769.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508769.html</guid>
     </item>
     <item>
-      <title>【热点】PCB制造卡住AI机架，英伟达Kyber NVL144被曝大幅延期</title>
-      <link>https://www.eet-china.com/mp/a507752.html</link>
+      <title>阳光电源：SiC固态变压器发售，签约130MW</title>
+      <link>https://www.eet-china.com/mp/a508768.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507752.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a508768.html</guid>
     </item>
     <item>
-      <title>弃铅转锂折戟！ST南都账户冻结拖累生产，百亿在手订单难交付</title>
-      <link>https://www.eet-china.com/mp/a507581.html</link>
+      <title>斥资超19亿元整合核心资产！彩虹股份全资锁定玻璃基板赛道</title>
+      <link>https://www.eet-china.com/mp/a507845.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507581.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a507845.html</guid>
     </item>
     <item>
       <title>2026 VLSI 台积电发布：SOIC、InFO、CoWoS、TSMC-SoW异构集成与 CPO 光互联技术深度解析</title>
       <link>https://www.eet-china.com/mp/a507871.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507871.html</guid>
     </item>
     <item>
-      <title>起售价1.58万元！硅胶龙头下场做仿真人形机器人了</title>
-      <link>https://www.eet-china.com/mp/a507661.html</link>
+      <title>【热点】PCB制造卡住AI机架，英伟达Kyber NVL144被曝大幅延期</title>
+      <link>https://www.eet-china.com/mp/a507752.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507661.html</guid>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a507752.html</guid>
+    </item>
+    <item>
+      <title>现代集团“弃子”凭借HBM逆袭，SK海力士创境外企业赴美IPO新纪录 | 全球深一度</title>
+      <link>https://www.eet-china.com/mp/a508857.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a508857.html</guid>
+    </item>
+    <item>
+      <title>弃铅转锂折戟！ST南都账户冻结拖累生产，百亿在手订单难交付</title>
+      <link>https://www.eet-china.com/mp/a507581.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a507581.html</guid>
     </item>
     <item>
       <title>超节点，即将迎来“真机时刻”</title>
       <link>https://www.eet-china.com/mp/a508096.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a508096.html</guid>
+    </item>
+    <item>
+      <title>起售价1.58万元！硅胶龙头下场做仿真人形机器人了</title>
+      <link>https://www.eet-china.com/mp/a507661.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a507661.html</guid>
+    </item>
+    <item>
+      <title>全球咨询巨头埃森哲确认数据泄露：35GB源代码及云凭证遭暗网出售</title>
+      <link>https://www.eet-china.com/mp/a508910.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a508910.html</guid>
     </item>
     <item>
       <title>中国电池企业在匈牙利被勒令暂停生产</title>
       <link>https://www.eet-china.com/mp/a507653.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507653.html</guid>
-    </item>
-    <item>
-      <title>留给自动驾驶裸奔的时间不多了</title>
-      <link>https://www.eet-china.com/mp/a507715.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a507715.html</guid>
     </item>
     <item>
       <title>1100亿的“豪赌”：三星SDI全固态电池的野心、底牌与全球棋局</title>
       <link>https://www.eet-china.com/mp/a507576.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507576.html</guid>
+    </item>
+    <item>
+      <title>露笑科技终止6英寸碳化硅募投项目，转攻大尺寸衬底</title>
+      <link>https://www.eet-china.com/mp/a508849.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a508849.html</guid>
+    </item>
+    <item>
+      <title>留给自动驾驶裸奔的时间不多了</title>
+      <link>https://www.eet-china.com/mp/a507715.html</link>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eet-china.com/mp/a507715.html</guid>
     </item>
     <item>
       <title>【每日瞰AI】 华为何庭波发布「韬定律」V2 版论文，补充后摩尔时代工程落地细节；Meta AI 负责人确认「西瓜」新模型，性能对标 GPT-5.5</title>
       <link>https://www.eet-china.com/mp/a507652.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a507652.html</guid>
-    </item>
-    <item>
-      <title>iPhone 18 Pro主板图泄露，部分器件供应商曝光</title>
-      <link>https://www.eet-china.com/mp/a508006.html</link>
-      <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eet-china.com/mp/a508006.html</guid>
     </item>
     <item>
       <title>理想汽车道歉！</title>
       <link>https://www.eet-china.com/mp/a456289.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a456289.html</guid>
     </item>
     <item>
       <title>理想汽车道歉！</title>
       <link>https://www.eet-china.com/mp/a456289.html</link>
       <description/>
-      <pubDate>Sat, 11 Jul 2026 17:07:19 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:09:46 GMT</pubDate>
       <guid isPermaLink="true">https://www.eet-china.com/mp/a456289.html</guid>
     </item>
   </channel>
